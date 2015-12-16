@@ -1,2 +1,2 @@
-# interview_prep
+# Interview Prep
 Technical Interview Prep for Software Engineering Internships
